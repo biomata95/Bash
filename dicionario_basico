@@ -1,0 +1,20 @@
+# Dicionario Basico de Bash
+
+
+-Operadores Logicos:
+
+-lt: significa "menor que", <
+-gt: significa "maior que", >
+-eq: significa "igual", =
+!=: significa diferente, !=
+
+
+-Para executar um programa, que necessita de argumentos.
+
+./programa.sh  argumento.xyz
+
+Exemplo:
+
+extensao.sh arquivo.tar
+
+

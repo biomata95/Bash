@@ -1,0 +1,1 @@
+bash -n "arquivo.sh"

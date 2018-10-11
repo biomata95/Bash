@@ -1,0 +1,3 @@
+echo "comando null"
+
+:

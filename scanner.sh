@@ -1,7 +1,7 @@
 #arp-scan --interface=enp2s0f5 --localnet
 
 
-nmap 192.168.1.3
+nmap 192.168.1.x
 
 
 
